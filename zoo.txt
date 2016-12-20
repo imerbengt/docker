@@ -1,0 +1,7 @@
+cats
+monkeys
+elephants
+giraffe
+rhino
+birds
+
