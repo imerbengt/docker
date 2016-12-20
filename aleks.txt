@@ -1,5 +1,6 @@
-Dette er min fil
+Dette er min fil!
 -Aleks
 
-This is my file
+This is my file!
 -Aleks
+
