@@ -1,2 +1,6 @@
 Hello everyone!
-Collaborating in Git :)
+Collaborating on Git :)
+
+smth new.
+
+smth not new enough.
