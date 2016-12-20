@@ -4,3 +4,9 @@ Collaborating on Git :)
 smth new.
 
 smth not new enough.
+
+adding more colors.
+
+red
+green
+blue
